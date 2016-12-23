@@ -197,7 +197,7 @@ void drawparamsTIME() {
   u8g.setFont(u8g_font_profont29r);
   u8g.setFontPosTop(); // toujours après choix police
   u8g.drawStr(10, 20  , time_SET_buffer );
-}
+} 
 void drawparamsDATE() {
   u8g.drawBitmapP( 111, 0, 1, 16, Gear1);
   u8g.drawBitmapP( 119, 0, 1, 16, Gear2);
