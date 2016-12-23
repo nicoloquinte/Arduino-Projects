@@ -1,0 +1,4 @@
+Librairies
+
+Sodaq_DS3231.h	-> https://github.com/SodaqMoja/Sodaq_DS3231
+U8glib.h				-> https://bintray.com/olikraus/u8glib/Arduino
